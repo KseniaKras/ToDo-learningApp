@@ -6,12 +6,10 @@ import {AppRootStateType} from './store'
 import {initializeAppTC, RequestStatusType} from './app-reducer'
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
-import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import LinearProgress from '@mui/material/LinearProgress';
-import {Menu} from '@mui/icons-material';
 import {ErrorSnackbar} from '../components/ErrorSnackbar/ErrorSnackbar'
 import {Login} from "../features/login/Login";
 import {Routes, Route, Navigate} from 'react-router-dom'
@@ -49,9 +47,6 @@ function App({demo = false}: PropsType) {
             <ErrorSnackbar/>
             <AppBar position="static">
                 <Toolbar>
-                    {/*<IconButton edge="start" color="inherit" aria-label="menu">*/}
-                    {/*    <Menu/>*/}
-                    {/*</IconButton>*/}
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                         TodoList
                     </Typography>
