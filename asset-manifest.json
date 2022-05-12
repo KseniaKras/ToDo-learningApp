@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/to-do-app/static/css/main.48934d97.chunk.css",
-    "main.js": "/to-do-app/static/js/main.3779ee9c.chunk.js",
-    "main.js.map": "/to-do-app/static/js/main.3779ee9c.chunk.js.map",
-    "runtime-main.js": "/to-do-app/static/js/runtime-main.40320bee.js",
-    "runtime-main.js.map": "/to-do-app/static/js/runtime-main.40320bee.js.map",
-    "static/js/2.de09c697.chunk.js": "/to-do-app/static/js/2.de09c697.chunk.js",
-    "static/js/2.de09c697.chunk.js.map": "/to-do-app/static/js/2.de09c697.chunk.js.map",
-    "static/js/3.71ff088d.chunk.js": "/to-do-app/static/js/3.71ff088d.chunk.js",
-    "static/js/3.71ff088d.chunk.js.map": "/to-do-app/static/js/3.71ff088d.chunk.js.map",
-    "index.html": "/to-do-app/index.html",
-    "static/css/main.48934d97.chunk.css.map": "/to-do-app/static/css/main.48934d97.chunk.css.map",
-    "static/js/2.de09c697.chunk.js.LICENSE.txt": "/to-do-app/static/js/2.de09c697.chunk.js.LICENSE.txt"
+    "main.css": "/ToDo-learningApp/static/css/main.48934d97.chunk.css",
+    "main.js": "/ToDo-learningApp/static/js/main.3779ee9c.chunk.js",
+    "main.js.map": "/ToDo-learningApp/static/js/main.3779ee9c.chunk.js.map",
+    "runtime-main.js": "/ToDo-learningApp/static/js/runtime-main.af4cc6cd.js",
+    "runtime-main.js.map": "/ToDo-learningApp/static/js/runtime-main.af4cc6cd.js.map",
+    "static/js/2.de09c697.chunk.js": "/ToDo-learningApp/static/js/2.de09c697.chunk.js",
+    "static/js/2.de09c697.chunk.js.map": "/ToDo-learningApp/static/js/2.de09c697.chunk.js.map",
+    "static/js/3.71ff088d.chunk.js": "/ToDo-learningApp/static/js/3.71ff088d.chunk.js",
+    "static/js/3.71ff088d.chunk.js.map": "/ToDo-learningApp/static/js/3.71ff088d.chunk.js.map",
+    "index.html": "/ToDo-learningApp/index.html",
+    "static/css/main.48934d97.chunk.css.map": "/ToDo-learningApp/static/css/main.48934d97.chunk.css.map",
+    "static/js/2.de09c697.chunk.js.LICENSE.txt": "/ToDo-learningApp/static/js/2.de09c697.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40320bee.js",
+    "static/js/runtime-main.af4cc6cd.js",
     "static/js/2.de09c697.chunk.js",
     "static/css/main.48934d97.chunk.css",
     "static/js/main.3779ee9c.chunk.js"
