@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ToDo-learningApp/static/css/main.48934d97.chunk.css",
-    "main.js": "/ToDo-learningApp/static/js/main.3779ee9c.chunk.js",
-    "main.js.map": "/ToDo-learningApp/static/js/main.3779ee9c.chunk.js.map",
+    "main.js": "/ToDo-learningApp/static/js/main.9b2720df.chunk.js",
+    "main.js.map": "/ToDo-learningApp/static/js/main.9b2720df.chunk.js.map",
     "runtime-main.js": "/ToDo-learningApp/static/js/runtime-main.af4cc6cd.js",
     "runtime-main.js.map": "/ToDo-learningApp/static/js/runtime-main.af4cc6cd.js.map",
-    "static/js/2.de09c697.chunk.js": "/ToDo-learningApp/static/js/2.de09c697.chunk.js",
-    "static/js/2.de09c697.chunk.js.map": "/ToDo-learningApp/static/js/2.de09c697.chunk.js.map",
+    "static/js/2.2f3b2119.chunk.js": "/ToDo-learningApp/static/js/2.2f3b2119.chunk.js",
+    "static/js/2.2f3b2119.chunk.js.map": "/ToDo-learningApp/static/js/2.2f3b2119.chunk.js.map",
     "static/js/3.71ff088d.chunk.js": "/ToDo-learningApp/static/js/3.71ff088d.chunk.js",
     "static/js/3.71ff088d.chunk.js.map": "/ToDo-learningApp/static/js/3.71ff088d.chunk.js.map",
     "index.html": "/ToDo-learningApp/index.html",
     "static/css/main.48934d97.chunk.css.map": "/ToDo-learningApp/static/css/main.48934d97.chunk.css.map",
-    "static/js/2.de09c697.chunk.js.LICENSE.txt": "/ToDo-learningApp/static/js/2.de09c697.chunk.js.LICENSE.txt"
+    "static/js/2.2f3b2119.chunk.js.LICENSE.txt": "/ToDo-learningApp/static/js/2.2f3b2119.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.af4cc6cd.js",
-    "static/js/2.de09c697.chunk.js",
+    "static/js/2.2f3b2119.chunk.js",
     "static/css/main.48934d97.chunk.css",
-    "static/js/main.3779ee9c.chunk.js"
+    "static/js/main.9b2720df.chunk.js"
   ]
 }
